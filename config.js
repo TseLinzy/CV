@@ -1,20 +1,15 @@
-const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+titleWeb : "Happy Birthday " ,
+introTitle : 'Huyền Khứ Trần'  ,
+introDesc : Trời hôm nay đẹp quá , phải chăng là vì có chị. Chị yêu , sinh nhật vui vẻ , mong chị mãi tươi cười , đừng để thế giới thiếu mất nụ cười đáng yêu đó nhá` ,
+btnIntro : '(• ‿ •)Yêu chị(• ‿ •) ' ,
+title : 'Đồng chí có muốn sang năm đón sinh nhật với tôi nữa không ◔◡◔' ,
+desc : 'Đồng chí có muốn tết năm sau mở sòng xuyên đêm 30 với tôi không' ,
+btn Có : 'Yé :v)))' ,
+btnNo : 'Nỏ :v' ,
+question : '2025 muốn tôi thua kèo không :v' ,
+btnReply : 'Gửi cho diu 3000 trái tim <3' ,
+reply : 'Nỏ :v' ,
+mess : 'Mình biết mà 🥰. Yêu bạn nhiều :vvv ' ,
+messDesc : 'Tối nay 7h, mình chơi game ha. " ,
+btn Chấp nhận : 'uci :v))))' ,
+messLink : 'https://www.messenger.com/t/4394602963964120' }
